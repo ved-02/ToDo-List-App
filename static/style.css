@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+nav{
+    width: 100vw;
+}
+.navbar-brand{
+    font-family: 'Anton', sans-serif;
+    font-size: 2rem;
+    margin-left: 2rem;
+}
+.col-lg{
+    margin: 2rem;
+}
+.ul-nav{
+    margin-right: 5rem;
+}
+#completeBtn{
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+footer{
+    text-align: center;
+    padding: 1em;
+    font-size: 1em;
+    height: 4em;
+    color: white;
+    background-color: #6c757d;
+}
